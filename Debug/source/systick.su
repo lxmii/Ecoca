@@ -1,0 +1,3 @@
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+systick.c:12:6:SysTick_Handler	8	static
+systick.c:19:6:PORTD_IRQHandler	8	static

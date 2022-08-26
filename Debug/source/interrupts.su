@@ -1,0 +1,5 @@
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+interrupts.c:18:6:processDebounce	16	static
+interrupts.c:42:6:SysTick_Handler	80	static
+interrupts.c:138:6:processIRQ	16	static
+interrupts.c:156:6:PORTD_IRQHandler	8	static

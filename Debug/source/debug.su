@@ -1,0 +1,4 @@
+debug.c:11:6:initDebug	8	static
+debug.c:19:6:toggleDebug	8	static
+debug.c:24:6:clearDebug	8	static
+debug.c:30:6:setDebug	8	static

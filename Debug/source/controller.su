@@ -1,0 +1,3 @@
+controller.c:31:6:initTempIP	8	static
+controller.c:37:6:initHeaterPWM	8	static
+controller.c:42:6:ctrlR	64	static

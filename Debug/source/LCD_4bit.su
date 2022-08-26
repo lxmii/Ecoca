@@ -1,0 +1,12 @@
+LCD_4bit.c:15:6:Delay	24	static
+LCD_4bit.c:26:16:lcd_read_status	16	static
+LCD_4bit.c:47:6:wait_while_busy	8	static
+LCD_4bit.c:53:6:lcd_write_4bit	16	static
+LCD_4bit.c:63:6:lcd_write_cmd	16	static
+LCD_4bit.c:72:13:lcd_write_data	16	static
+LCD_4bit.c:81:6:lcd_putchar	16	static
+LCD_4bit.c:86:6:lcd_init_port	8	static
+LCD_4bit.c:101:6:Init_LCD	8	static
+LCD_4bit.c:122:6:Set_Cursor	24	static
+LCD_4bit.c:131:6:Clear_LCD	8	static
+LCD_4bit.c:137:6:Print_LCD	16	static

@@ -1,0 +1,7 @@
+core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+core_cm0plus.h:885:26:SysTick_Config	16	static
+init.c:25:6:initFood	32	static
+init.c:35:6:initswitch	16	static
+init.c:50:6:init	48	static

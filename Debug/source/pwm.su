@@ -1,0 +1,2 @@
+pwm.c:14:6:initPWM	40	static
+pwm.c:77:6:setDutycycle	40	static
